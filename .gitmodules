@@ -1,0 +1,3 @@
+[submodule "8rents-profile"]
+  path = Profile
+  url = https://github.com/8rents/8rentS
